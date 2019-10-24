@@ -1,0 +1,2 @@
+public class Ekvationslösare {
+}
